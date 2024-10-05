@@ -18,5 +18,5 @@ A lightweight chatting application built with a cleaner UI to easily set up conn
 
 ## Created & Maintained by
 
-### **Amartya Yadav**
+### **Amartya Yadav** & **Aayush Dahiya**
 ---
